@@ -1,0 +1,106 @@
+.body{
+    position:absolute;
+    left: 300px;
+    top: 150px;
+    width: 700px;
+    border-right: 2px solid rgb(169, 196, 233);
+    border-left: 2px solid rgb(169, 196, 233);
+    border-top: 2px solid rgb(169, 196, 233);
+    border-bottom: 2px solid rgb(200, 223, 245);
+    padding-top: 12px;
+    padding-bottom: 50px;
+    padding-left: 4px;
+    padding-right: 4px;
+    
+}
+
+.nav{
+    background-color:#4682b4;
+    padding: 12px;  
+}
+
+.logo1{
+    position: absolute;
+    left:45px;
+    top: 20px;
+}
+.logo2{
+    color: white;
+    text-align: center;
+    font-size: 26px;
+    font-family:DejaVu Sans;
+}
+.logo3{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    font-family: DejaVu Sans;
+    padding-top: 8px;
+    
+}
+.wlcm{
+    text-align: center;
+    font-size: 28px;
+    font-family: arial;
+    
+   
+} 
+.usrpwd{
+    text-align: center;
+    font-size: 22px;
+    font-family:arial;
+    padding-left: 30px;
+}
+.usr,.pwd{
+    
+    position: absolute;
+    left:110px;
+    font-family: arial;
+    font-size: 20px;
+}
+.box1,.box2{
+    border: 1px solid ;
+    width: 360px;
+    height: 25px;
+    border-radius: 3px;
+}
+.btn{
+    border: 1px solid black;
+    border-radius: 3px;   
+    position:absolute;
+    left: 550px;
+    height: 30px;
+    width: 100px;
+    background-color: lightgray;
+    font-size: 16px;
+   
+}
+.marquee{
+    color: rgb(25, 25, 252);
+    font-family: arial;
+    width: 600px;
+} 
+.note,.inst,.foot{
+    color: red;
+    position: relative;
+    left: 90px;
+    font-family: arial;
+}
+.ssl{
+    position:relative;
+    left: 90px;
+    font-family: arial;
+}
+.list1,.list2{
+    position: relative;
+    left:90px;
+    font-family:arial;
+}
+.link1,.link2,.link3,.link4{
+    color: blue;
+    font-family: arial;
+}
+.link4{
+    position: absolute;
+    right: 290px;
+}
